@@ -1,4 +1,3 @@
-# nurse-of-the-world
 
 # Project Description 
 Its a project for learning hosting and admin panel.
@@ -11,6 +10,7 @@ Its a project for learning hosting and admin panel.
  
 3- Then type 
    ` npm run dev `
+   
   --------------------------------
 # Tech stack
  1. React.js
